@@ -22,7 +22,7 @@ a7.Position = UDim2.new(0.091, 0, 0.57, 0)
 a7.Size = UDim2.new(0, 80, 0, 14)
 a7.Active = true
 a7.Draggable = true
-a7.Transparency = 1
+a7.Transparency = 0.6
 
 a8.Name = "Thing1"
 a8.Parent = a7
