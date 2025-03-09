@@ -22,12 +22,12 @@ a7.Position = UDim2.new(0.091, 0, 0.57, 0)
 a7.Size = UDim2.new(0, 80, 0, 14)
 a7.Active = true
 a7.Draggable = true
-a7.Transparency = 0.8
+a7.Transparency = 1
 
 a8.Name = "Thing1"
 a8.Parent = a7
 a8.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-a8.Position = UDim2.new(0.243, 0, 0.345, 0)
+a8.Position = UDim2.new(9.99, 0, 0.345, 0)
 a8.Size = UDim2.new(0, 50, 0, 50)
 a8.Image = "rbxassetid://140379822604324"
 a8.BackgroundTransparency = 1
